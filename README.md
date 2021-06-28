@@ -1,3 +1,13 @@
 # DCI Excercise:
 
-    Some preformatted
+### Name: 
+
+Abdulkarim Alarmanazi
+### Favorite color: 
+
+Pink
+### Favorite Language: 
+
+Python
+### A list of my favorite restourant:
+* McDonalds
