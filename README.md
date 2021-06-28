@@ -11,6 +11,6 @@ Abdulkarim Alarmanazi
 Pink
 ### Favorite Language: 
 
-Python
+Arabic
 ### A list of my favorite restourant:
 * McDonalds
